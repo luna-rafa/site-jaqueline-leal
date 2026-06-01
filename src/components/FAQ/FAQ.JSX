@@ -38,10 +38,6 @@ export default function FAQ() {
           <h2 className="mt-4 text-4xl font-black text-[#064d35] md:text-5xl">
             Perguntas que você pode ter
           </h2>
-
-          <p className="mx-auto mt-6 max-w-3xl text-lg leading-8 text-slate-700">
-            Algumas respostas para ajudar você a entender melhor como funciona o acompanhamento terapêutico.
-          </p>
         </div>
 
         <div className="mt-16 space-y-6">
