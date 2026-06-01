@@ -7,6 +7,7 @@ import Atendimento from "./components/Atendimento/Atendimento";
 import Expectativas from "./components/Expectativas/Expectativas";
 import Contato from "./components/Contato/Contato";
 import NR1Empresas from "./pages/NR1Empresas";
+import FAQ from "./components/FAQ/FAQ";
 
 function Home() {
   return (
@@ -16,6 +17,7 @@ function Home() {
       <CardsEntrada />
       <Ancoradas />
       <Atendimento />
+      <FAQ />
       <Expectativas />
       <Contato />
     </>
